@@ -1,4 +1,4 @@
-package `in`.apps.mvvm.newsapp.api
+package `in`.apps.mvvm.newsapp.models
 
 
 data class Source(

@@ -1,6 +1,6 @@
-package `in`.apps.mvvm.newsapp.api
+package `in`.apps.mvvm.newsapp.models
 
-import `in`.apps.mvvm.newsapp.api.Article
+import `in`.apps.mvvm.newsapp.models.Article
 
 data class NewsResponce(
     val articles: List<Article>,

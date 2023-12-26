@@ -1,5 +1,6 @@
 package `in`.apps.mvvm.newsapp.api
 
+import `in`.apps.mvvm.newsapp.models.NewsResponce
 import `in`.apps.mvvm.newsapp.util.Constants
 import retrofit2.Response
 import retrofit2.http.GET
